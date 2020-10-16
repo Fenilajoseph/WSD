@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="bookk.xsl"?>
+<books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="bookk.xsd">
+  <book>
+    <title>The Lord of the Rings</title>
+    <author>J. R. R. Tolkien</author>
+    <genre>Fantasy</genre>
+    <year>1954</year>
+  </book>
+  <book>
+    <title>The Hobbit</title>
+    <author>J. R. R. Tolkien</author>
+    <genre>Fantasy</genre>
+    <year>1937</year>
+  </book>
+  <book>
+    <title>The Little Prince</title>
+    <author>Antoine de Saint-Exupéry</author>
+    <genre>Fantasy</genre>
+    <year>1943</year>
+  </book>
+  <book>
+    <title>The Alchemist</title>
+    <author>Paulo Coelho</author>
+    <genre>Fantasy</genre>
+    <year>1988</year>
+  </book>
+  <book>
+    <title>She: A History of Adventure</title>
+    <author>H. Rider Haggard</author>
+    <genre>Adventure</genre>
+    <year>1887</year>
+  </book>
+  <book>
+    <title>Lolita</title>
+    <author>Vladimir Nabokov</author>
+    <genre>General</genre>
+    <year>1955</year>
+  </book>
+  <book>
+    <title>Charlotte's Web</title>
+    <author>E. B. White</author>
+    <genre>Children's fiction</genre>
+    <year>1952</year>
+  </book>
+  <book>
+    <title>The Eagle Has Landed</title>
+    <author>Jack Higgins</author>
+    <genre>War</genre>
+    <year>1975</year>
+  </book>
+  <book>
+    <title>Black Beauty</title>
+    <author>Anna Sewell</author>
+    <genre>literature</genre>
+    <year>1877</year>
+  </book>
+  <book>
+    <title>Heidi</title>
+    <author>Johanna Spyri</author>
+    <genre>fiction</genre>
+    <year>1880</year>
+  </book>
+  <book>
+    <title>One Hundred Years of Solitude</title>
+    <author>Gabriel García Márquez</author>
+    <genre>Magic realism</genre>
+    <year>1967</year>
+  </book>
+  <book>
+    <title>You Can Heal Your Life</title>
+    <author>Louise Hay</author>
+    <genre>Self-improvement</genre>
+    <year>1984</year>
+  </book>
+</books>
+
