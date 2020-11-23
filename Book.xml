@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+<book mid="M1">
+<name>Lord of Rings</name>
+<author>J.R.R.Tolkien</author>
+<pages>500</pages>
+<price>600</price>
+</book>
+<book mid="M1">
+<name>Assasin's Apprentice</name>
+<author>Robin Hobb</author>
+<pages>450</pages>
+<price>500</price>
+</book>
+<book mid="M1">
+<name>The Notebook</name>
+<author>Nicolas Sparks</author>
+<pages>520</pages>
+<price>750</price>
+</book>
+<book mid="M1">
+<name>Jane Eyre</name>
+<author>Charlotte Bronte</author>
+<pages>600</pages>
+<price>500</price>
+</book>
+<book mid="M1">
+<name>Bird box</name>
+<author>Josh Malerman</author>
+<pages>500</pages>
+<price>700</price>
+</book>
+<book mid="M1">
+<name>The hunger games</name>
+<author>Suzanne Collis</author>
+<pages>800</pages>
+<price>650</price>
+</book>
+</books>
